@@ -1,0 +1,12 @@
+.Nav {
+  width: 100%;
+  background: #2d3436;
+  color: white;
+  overflow: hidden;
+  padding: 0 15px;
+};
+
+.Nav h2 {
+  display: inline-block;
+  margin: none;
+}
